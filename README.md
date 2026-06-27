@@ -82,7 +82,7 @@ Includes KPI alert thresholds and escalation procedures — structured per ISO d
 
 * **Overall PPV:** Total actual spend exceeded standard cost by approximately $49,000 across 12 months (unfavorable), driven primarily by Machined Components and Raw Materials categories  
 
- * **Cost Out delivery:** 2 initiatives targeting $753,574 in combined annual savings — 44.5% achieved to date ($335,599 realized). 5 initiatives Fully Realized, 3 In Progress, 4 Approved but not yet started   
+ * **Cost Out delivery:** 12 initiatives targeting $753,574 in combined annual savings — 44.5% achieved to date ($335,599 realized). 5 initiatives Fully Realized, 3 In Progress, 4 Approved but not yet started   
 
 * **Supplier performance:** Titan Forge & Cast Inc and Meridian Precision Tools are consistent OTD underperformers (below 85% threshold)  
 
